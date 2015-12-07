@@ -1,0 +1,34 @@
+D:\Users\Rusty\AppData\Local\Temporary Projects\Dupe Master\bin\Debug\Dupe Master.exe
+D:\Users\Rusty\AppData\Local\Temporary Projects\Dupe Master\bin\Debug\Dupe Master.pdb
+D:\Users\Rusty\AppData\Local\Temporary Projects\Dupe Master\bin\Debug\Dupe Master.xml
+D:\Users\Rusty\AppData\Local\Temporary Projects\Dupe Master\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Rusty\AppData\Local\Temporary Projects\Dupe Master\obj\Debug\Dupe_Master.Form1.resources
+D:\Users\Rusty\AppData\Local\Temporary Projects\Dupe Master\obj\Debug\Dupe_Master.Resources.resources
+D:\Users\Rusty\AppData\Local\Temporary Projects\Dupe Master\obj\Debug\Dupe Master.vbproj.GenerateResource.Cache
+D:\Users\Rusty\AppData\Local\Temporary Projects\Dupe Master\obj\Debug\Dupe Master.exe
+D:\Users\Rusty\AppData\Local\Temporary Projects\Dupe Master\obj\Debug\Dupe Master.xml
+D:\Users\Rusty\AppData\Local\Temporary Projects\Dupe Master\obj\Debug\Dupe Master.pdb
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\Dupe Master.exe
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\Dupe Master.xml
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\Dupe Master.pdb
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\bin\Debug\Dupe Master.exe
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\bin\Debug\Dupe Master.pdb
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\bin\Debug\Dupe Master.xml
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\Dupe_Master.Form1.resources
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\Dupe_Master.Resources.resources
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\Dupe Master.vbproj.GenerateResource.Cache
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\bin\Debug\Interop.WMPLib.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\Interop.WMPLib.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\AxInterop.WMPLib.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\Dupe Master.vbproj.ResolveComReference.cache
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\bin\Debug\Interop.SKYPE4COMLib.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\bin\Debug\AxInterop.SKYPE4COMLib.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\Interop.SKYPE4COMLib.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\AxInterop.SKYPE4COMLib.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\bin\Debug\Interop.XtremeCommandBars.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\bin\Debug\AxInterop.XtremeCommandBars.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\Interop.XtremeCommandBars.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\AxInterop.XtremeCommandBars.dll
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Dupe Master\Dupe Master\obj\Debug\Dupe_Master.Chris.resources
